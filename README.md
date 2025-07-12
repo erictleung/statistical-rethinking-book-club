@@ -8,6 +8,7 @@ Following slides and videos from here https://github.com/rmcelreath/stat_rethink
 - [Format](#format)
 - [Schedule](#schedule)
 - [Code](#schedule)
+- [Resources](#resources)
 
 ## Format
 
@@ -42,3 +43,9 @@ We plan on going through both the R and Python versions of the coding examples:
 - Python/PyMC https://github.com/pymc-devs/pymc-resources/tree/main/Rethinking_2
 - R/Stan https://github.com/rmcelreath/stat_rethinking_2024
 - R/brms/tidyverse https://bookdown.org/content/4857/
+
+## Resources
+
+Here are some other places to supplement learning.
+
+- https://web.archive.org/web/20110625052506/http://cocosci.berkeley.edu/tom/bayes.html
