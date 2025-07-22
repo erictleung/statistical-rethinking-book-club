@@ -23,7 +23,7 @@ We plan on meeting every two weeks after work hours around 5:30 pm--7:30 pm
 | Date | Location | Material | Lectures |
 |--|--|--|--|
 | 2025-07-09 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Logistics and review | 1, 2 |
-| 2025-07-23 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 01 (Chapters 1, 2, 3) | 3, 4 |
+| 2025-07-23 | Cafe around Bryant Park | Week 01 (Chapters 1, 2, 3) | 3, 4 |
 | 2025-08-06 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 02 (Chapter 4) | 5, 6 |
 | 2025-08-06 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 03 (Chapters 5 and 6) | 5, 6 |
 | 2025-08-20 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 04 (Chapters 7, 8, 9) | 7, 8 |
