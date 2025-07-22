@@ -18,21 +18,21 @@ As a stretch goal, we hope to also apply our learnings to a side project or work
 
 ## Schedule
 
-We plan on meeting every two weeks.
+We plan on meeting every two weeks after work hours around 5:30 pm--7:30 pm
 
-| Date | Location | Material |
-|--|--|--|
-| 2025-07-09 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Logistics and review |
-| 2025-07-23 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 01 (Chapters 1, 2, 3) |
-| 2025-08-06 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 02 (Chapter 4) |
-| 2025-08-06 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 03 (Chapters 5 and 6) |
-| 2025-08-20 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 04 (Chapters 7, 8, 9) |
-| 2025-09-03 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 05 (Chapters 10 and 11) |
-| 2025-09-17 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 06 (Chapters 11 and 12) |
-| 2025-10-01 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 07 (Chapter 13) |
-| 2025-10-15 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 08 (Chapter 14) |
-| 2025-10-29 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 09 (Chapter 15) |
-| 2025-11-12 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 10 (Chapters 16 and 17) |
+| Date | Location | Material | Lectures |
+|--|--|--|--|
+| 2025-07-09 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Logistics and review | 1, 2 |
+| 2025-07-23 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 01 (Chapters 1, 2, 3) | 3, 4 |
+| 2025-08-06 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 02 (Chapter 4) | 5, 6 |
+| 2025-08-06 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 03 (Chapters 5 and 6) | 5, 6 |
+| 2025-08-20 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 04 (Chapters 7, 8, 9) | 7, 8 |
+| 2025-09-03 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 05 (Chapters 10 and 11) | 9, 10 |
+| 2025-09-17 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 06 (Chapters 11 and 12) | 11, 12 |
+| 2025-10-01 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 07 (Chapter 13) | 13, 14 |
+| 2025-10-15 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 08 (Chapter 14) | 15, 16 |
+| 2025-10-29 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 09 (Chapter 15) | 17, 18 |
+| 2025-11-12 | [Stavros Niarchos Foundation Library (SNFL) Rooftop Terrace][snfl] | Week 10 (Chapters 16 and 17) | 19, 20 |
 
 [snfl]: https://www.nypl.org/locations/snfl/event-center
 
