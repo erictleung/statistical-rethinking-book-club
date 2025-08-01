@@ -50,3 +50,4 @@ We plan on going through both the R and Python versions of the coding examples:
 Here are some other places to supplement learning.
 
 - https://web.archive.org/web/20110625052506/http://cocosci.berkeley.edu/tom/bayes.html
+- https://causalai-book.net/
