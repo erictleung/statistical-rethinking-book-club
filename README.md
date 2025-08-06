@@ -1,6 +1,8 @@
 # statistical-rethinking-book-club
 Book club notes for reading through McElreath's book Statistical Rethinking
 
+[<img src="http://nbviewer.jupyter.org/static/img/nav_logo.svg" width=120>](https://nbviewer.org/github/erictleung/statistical-rethinking-book-club/tree/main/)
+
 Following slides and videos from here https://github.com/rmcelreath/stat_rethinking_2024.
 
 **Contents**
