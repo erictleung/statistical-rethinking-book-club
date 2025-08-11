@@ -54,3 +54,6 @@ Here are some other places to supplement learning.
 
 - https://web.archive.org/web/20110625052506/http://cocosci.berkeley.edu/tom/bayes.html
 - https://causalai-book.net/
+- https://sites.stat.columbia.edu/gelman/book/
+- https://avehtari.github.io/ROS-Examples/
+- https://avehtari.github.io/ActiveStatistics/
