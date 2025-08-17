@@ -58,3 +58,4 @@ Here are some other places to supplement learning.
 - https://sites.stat.columbia.edu/gelman/book/
 - https://avehtari.github.io/ROS-Examples/
 - https://avehtari.github.io/ActiveStatistics/
+- Bayesian Basics - A Conceptual Introduction with Applications in R and Stan https://civil.colorado.edu/%7Ebalajir/CVEN6833/bayes-resources/Intro2Bayes.pdf
