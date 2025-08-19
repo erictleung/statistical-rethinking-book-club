@@ -28,7 +28,7 @@ We plan on meeting every two weeks on Wednesday after work hours around 5:30 pm-
 | 2025-07-23 Wed | [Café Hestia 513 7th Ave, New York, NY 10018][hestia] | Week 01 (Chapters 1, 2, 3) | 1, 2 |
 | 2025-08-06 Wed | [Café Hestia 513 7th Ave, New York, NY 10018][hestia] | Week 02 (Chapter 4) | 3, 4 |
 | 2025-08-11 Mon | [Café Hestia 513 7th Ave, New York, NY 10018][hestia] | Week 02 (Chapter 4) | 3, 4 |
-| 2025-08-20 Mon | [Café Hestia 513 7th Ave, New York, NY 10018][hestia] | Week 02 (Chapter 4) | 3, 4 |
+| 2025-08-20 Wed | [Café Hestia 513 7th Ave, New York, NY 10018][hestia] | Week 02 (Chapter 4) | 3, 4 |
 | 2025-09-03 Wed | [Café Hestia 513 7th Ave, New York, NY 10018][hestia] | Week 03 (Chapters 5 and 6) | 5, 6 |
 | 2025-09-17 Wed | [Café Hestia 513 7th Ave, New York, NY 10018][hestia] | Week 04 (Chapters 7, 8, 9) | 7, 8 |
 | 2025-10-01 Wed | [Café Hestia 513 7th Ave, New York, NY 10018][hestia] | Week 05 (Chapters 10 and 11) | 9, 10 |
