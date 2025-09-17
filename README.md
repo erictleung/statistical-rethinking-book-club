@@ -30,7 +30,7 @@ We plan on meeting every two weeks on Wednesday after work hours around 5:30 pm-
 | 2025-08-11 Mon | [Café Hestia][hestia] | Week 02 (Chapter 4) | 3, 4 |
 | 2025-08-20 Wed | [Café Hestia][hestia] | Week 02 (Chapter 4) | 3, 4 |
 | 2025-09-03 Wed | [Café Hestia][hestia] | Week 03 (Chapters 5 and 6) | 5, 6 |
-| 2025-09-17 Wed | [Café Hestia][hestia] | Week 04 (Chapters 7, 8, 9) | 7, 8 |
+| 2025-09-17 Wed | [Think Coffee][thinkcoffee] | Week 04 (Chapters 7, 8, 9) | 7, 8 |
 | 2025-10-01 Wed | [Café Hestia][hestia] | Week 05 (Chapters 10 and 11) | 9, 10 |
 | 2025-10-15 Wed | [Café Hestia][hestia] | Week 06 (Chapters 11 and 12) | 11, 12 |
 | 2025-10-29 Wed | [Café Hestia][hestia] | Week 07 (Chapter 13) | 13, 14 |
@@ -40,6 +40,7 @@ We plan on meeting every two weeks on Wednesday after work hours around 5:30 pm-
 
 [snfl]: https://www.nypl.org/locations/snfl/event-center
 [hestia]: https://maps.app.goo.gl/yrkDspmhpdmPbTpZ6
+[thinkcoffee]: https://maps.app.goo.gl/JJ6GGyqPgcJdGDN39
 
 ## Code
 
